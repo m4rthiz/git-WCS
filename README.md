@@ -16,7 +16,7 @@ Création du dépot en local
 ou un : <div>git log</div> pour avoir les informations sur l'historique des commits
   
 herbegement sur github  
-----------------------  
+------------------------  
   
 * git remote add origin https://github.com/m4rthiz/git-WCS.git (création du dépot distant sur github)  
 
